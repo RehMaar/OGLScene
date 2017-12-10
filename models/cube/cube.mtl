@@ -1,0 +1,24 @@
+# Blender MTL File: 'test_model.blend1'
+# Material Count: 2
+
+newmtl rust
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.012670 0.066472
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd test_model.png
+
+newmtl wood
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.028479 0.028825 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd test_model.png
